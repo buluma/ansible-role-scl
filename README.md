@@ -4,7 +4,7 @@ Install SCL on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-scl/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-scl/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-scl/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-scl)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/scl)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/scl)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/releases/)|
+|[![github](https://github.com/buluma/ansible-role-scl/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-scl/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-scl/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-scl)|[![quality](https://img.shields.io/ansible/quality/58483)](https://galaxy.ansible.com/buluma/scl)|[![downloads](https://img.shields.io/ansible/role/d/58483)](https://galaxy.ansible.com/buluma/scl)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -44,7 +44,7 @@ The following roles are used to prepare a system. You can prepare your system in
 
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
-|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
+|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
 
 ## [Context](#context)
 
