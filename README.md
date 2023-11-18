@@ -1,4 +1,4 @@
-# [scl](#scl)
+# [Ansible role scl](#scl)
 
 Install SCL on your system.
 
