@@ -1,10 +1,10 @@
-# [Ansible role scl](#scl)
+# Ansible role [scl](https://galaxy.ansible.com/ui/standalone/roles/buluma/scl/documentation)
 
 Install SCL on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-scl/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-scl/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-scl/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-scl/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-scl.svg)](https://github.com/buluma/ansible-role-scl/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/scl)](https://galaxy.ansible.com/ui/standalone/roles/buluma/scl/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -92,7 +92,5 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 [Michael Buluma](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
