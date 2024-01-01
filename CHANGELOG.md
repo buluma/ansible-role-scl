@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-scl/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-scl/compare/0.1.4...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#13](https://github.com/buluma/ansible-role-scl/issues/13)
+
 ## [0.1.4](https://github.com/buluma/ansible-role-scl/tree/0.1.4) (2023-12-25)
 
 [Full Changelog](https://github.com/buluma/ansible-role-scl/compare/0.1.3...0.1.4)
