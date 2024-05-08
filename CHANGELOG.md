@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-scl/tree/HEAD)
+## [24.3.31](https://github.com/buluma/ansible-role-scl/tree/24.3.31) (2024-03-29)
 
-[Full Changelog](https://github.com/buluma/ansible-role-scl/compare/0.4.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-scl/compare/0.4.0...24.3.31)
 
 **Merged pull requests:**
 
