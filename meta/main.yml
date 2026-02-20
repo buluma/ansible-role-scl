@@ -6,35 +6,35 @@ galaxy_info:
   description: Install SCL on your system.
   license: Apache-2.0
   company: ShadowNet
-  min_ansible_version: '2.12'
+  min_ansible_version: "2.12"
   platforms:
     - name: Alpine
       versions:
         - all
-  - name: Amazon
-    versions:
-    - all
-  - name: Debian
-    versions:
-    - all
-  - name: EL
-    versions:
-    - all
-  - name: Fedora
-    versions:
-    - all
-  - name: opensuse
-    versions:
-    - all
-  - name: Ubuntu
-    versions:
-    - all
-  - name: Kali
-    versions:
-    - all
+    - name: Amazon
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: opensuse
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Kali
+      versions:
+        - all
   galaxy_tags:
     - scl
-  - repository
-  - installer
-  - packages
+    - repository
+    - installer
+    - packages
 dependencies: []
